@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-11T20:59:33.966Z",
+  "generated_at": "2026-08-11T21:37:08.225Z",
   "count": 94,
   "categories": [
     "GAMEPLAY",
@@ -2594,15 +2594,15 @@
       "thumbnail": null,
       "description_url": "data/mods/ShaneMcGovernIE@qol_toggles/description.md",
       "latest": {
-        "version": "1.17.3",
-        "tag": "v1.17.3",
-        "name": "1.17.3",
+        "version": "1.18.0",
+        "tag": "v1.18.0",
+        "name": "1.18.0",
         "prerelease": false,
-        "published_at": "2026-08-08T23:11:24Z",
+        "published_at": "2026-08-11T21:05:25Z",
         "zip": {
-          "name": "qol_toggles-1.17.3.zip",
-          "url": "https://github.com/ShaneMcGovernIE/qol_toggles/releases/download/v1.17.3/qol_toggles-1.17.3.zip",
-          "size": 68990
+          "name": "qol_toggles-1.18.0.zip",
+          "url": "https://github.com/ShaneMcGovernIE/qol_toggles/releases/download/v1.18.0/qol_toggles-1.18.0.zip",
+          "size": 76604
         }
       },
       "update_check": "ok"
@@ -2900,7 +2900,7 @@
       ],
       "repo": "https://github.com/tebwritescode/savesync",
       "github": "tebwritescode/savesync",
-      "summary": "Automatic cross-device cloud saves on storage you own: your own GitHub gist, Dropbox, or a self-hosted server. Conflicts are never silently overwritten.",
+      "summary": "Your save follows you to every device. Sign in once - the storage is your own GitHub, Dropbox or server, never someone else's.",
       "tags": [
         "saves",
         "backup",
@@ -2920,15 +2920,15 @@
       "thumbnail": "data/mods/tebwritescode@savesync/thumbnail.png",
       "description_url": "data/mods/tebwritescode@savesync/description.md",
       "latest": {
-        "version": "1.5.0",
-        "tag": "v1.5.0",
-        "name": "SaveSync v1.5.0",
+        "version": "1.6.0",
+        "tag": "v1.6.0",
+        "name": "SaveSync v1.6.0",
         "prerelease": false,
-        "published_at": "2026-08-11T20:48:25Z",
+        "published_at": "2026-08-11T21:36:20Z",
         "zip": {
-          "name": "savesync-1.5.0.zip",
-          "url": "https://github.com/tebwritescode/savesync/releases/download/v1.5.0/savesync-1.5.0.zip",
-          "size": 62243
+          "name": "ss160.zip",
+          "url": "https://github.com/tebwritescode/savesync/releases/download/v1.6.0/ss160.zip",
+          "size": 65950
         }
       },
       "update_check": "ok"
