@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-11T21:39:47.054Z",
+  "generated_at": "2026-08-11T22:04:30.886Z",
   "count": 94,
   "categories": [
     "GAMEPLAY",
@@ -2554,15 +2554,15 @@
       "thumbnail": null,
       "description_url": "data/mods/ShaneMcGovernIE@potato_voxel/description.md",
       "latest": {
-        "version": "1.3.8",
-        "tag": "v1.3.8",
-        "name": "1.3.8",
+        "version": "1.3.9",
+        "tag": "v1.3.9",
+        "name": "1.3.9",
         "prerelease": false,
-        "published_at": "2026-08-11T12:44:05Z",
+        "published_at": "2026-08-11T21:53:33Z",
         "zip": {
-          "name": "potato_voxel-1.3.8.zip",
-          "url": "https://github.com/ShaneMcGovernIE/potato_voxel/releases/download/v1.3.8/potato_voxel-1.3.8.zip",
-          "size": 684012
+          "name": "potato_voxel-1.3.9.zip",
+          "url": "https://github.com/ShaneMcGovernIE/potato_voxel/releases/download/v1.3.9/potato_voxel-1.3.9.zip",
+          "size": 684178
         }
       },
       "update_check": "ok"
@@ -2594,15 +2594,15 @@
       "thumbnail": null,
       "description_url": "data/mods/ShaneMcGovernIE@qol_toggles/description.md",
       "latest": {
-        "version": "1.18.0",
-        "tag": "v1.18.0",
-        "name": "1.18.0",
+        "version": "1.18.1",
+        "tag": "v1.18.1",
+        "name": "1.18.1",
         "prerelease": false,
-        "published_at": "2026-08-11T21:05:25Z",
+        "published_at": "2026-08-11T21:52:56Z",
         "zip": {
-          "name": "qol_toggles-1.18.0.zip",
-          "url": "https://github.com/ShaneMcGovernIE/qol_toggles/releases/download/v1.18.0/qol_toggles-1.18.0.zip",
-          "size": 76604
+          "name": "qol_toggles-1.18.1.zip",
+          "url": "https://github.com/ShaneMcGovernIE/qol_toggles/releases/download/v1.18.1/qol_toggles-1.18.1.zip",
+          "size": 76982
         }
       },
       "update_check": "ok"
@@ -2900,7 +2900,7 @@
       ],
       "repo": "https://github.com/tebwritescode/savesync",
       "github": "tebwritescode/savesync",
-      "summary": "Your save follows you to every device. Sign in once - the storage is your own GitHub, Dropbox or server, never someone else's.",
+      "summary": "Automatic cross-device saves for Gen1Recomp - your save follows you to every device you play on, stored on free space that belongs to you.",
       "tags": [
         "saves",
         "backup",
@@ -2920,15 +2920,15 @@
       "thumbnail": "data/mods/tebwritescode@savesync/thumbnail.png",
       "description_url": "data/mods/tebwritescode@savesync/description.md",
       "latest": {
-        "version": "1.6.0",
-        "tag": "v1.6.0",
-        "name": "SaveSync v1.6.0",
+        "version": "1.6.1",
+        "tag": "v1.6.1",
+        "name": "SaveSync v1.6.1",
         "prerelease": false,
-        "published_at": "2026-08-11T21:36:20Z",
+        "published_at": "2026-08-11T22:03:56Z",
         "zip": {
-          "name": "savesync-1.6.0.zip",
-          "url": "https://github.com/tebwritescode/savesync/releases/download/v1.6.0/savesync-1.6.0.zip",
-          "size": 65950
+          "name": "savesync-1.6.1.zip",
+          "url": "https://github.com/tebwritescode/savesync/releases/download/v1.6.1/savesync-1.6.1.zip",
+          "size": 65851
         }
       },
       "update_check": "ok"
