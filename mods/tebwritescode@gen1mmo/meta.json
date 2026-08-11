@@ -5,23 +5,25 @@
   "version": "1.5.1",
   "categories": [
     "GAMEPLAY",
-    "UI"
+    "CONTENT",
+    "QOL"
   ],
   "repo": "https://github.com/tebwritescode/gen1mmo",
-  "github": "tebwritescode/gen1mmo",
-  "summary": "Online play: other trainers roam your own world. Chat, customise your look, make friends. One official server, no email required.",
+  "summary": "Other trainers live in your own save: chat, trainer cards, friends - one official server, accounts with no email.",
   "tags": [
     "online",
     "multiplayer",
     "chat",
-    "mmo",
+    "friends",
+    "customisation",
+    "privacy",
     "social"
   ],
+  "github": "tebwritescode/gen1mmo",
   "license": "MIT",
-  "api": 2,
   "permissions": [
     "network"
   ],
-  "affects_link": true,
-  "automatic_version_check": true
+  "api": 2,
+  "profile": "content"
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-11T20:51:21.150Z",
-  "count": 81,
+  "generated_at": "2026-08-11T20:57:43.344Z",
+  "count": 94,
   "categories": [
     "GAMEPLAY",
     "CONTENT",
@@ -319,6 +319,37 @@
       "update_check": "pending"
     },
     {
+      "folder": "hdbreaker@cheat_engine",
+      "id": "cheat_engine",
+      "title": "Cheat Engine",
+      "author": "hdbreaker",
+      "summary": "Cheat engine: heal/XP/money, evolve, give pokemon, items, no encounters, spawn, bike anywhere, surf always, always catch, god mode, OHKO, walk walls, turbo, perfect DVs, shiny, badges, TMs.",
+      "version": "1.0.0",
+      "categories": [
+        "TOOL"
+      ],
+      "tags": [
+        "cheat",
+        "tool",
+        "quality-of-life"
+      ],
+      "repo": "https://github.com/hdbreaker/gen1recomp-mod-cheat_engine",
+      "github": "hdbreaker/gen1recomp-mod-cheat_engine",
+      "api": 2,
+      "game_version": ">=0.0.0-dev <1.0.0",
+      "profile": "content",
+      "affects_link": false,
+      "permissions": [
+        "engine_internals"
+      ],
+      "dependencies": [],
+      "conflicts": [],
+      "thumbnail": "data/mods/hdbreaker@cheat_engine/thumbnail.png",
+      "description_url": "data/mods/hdbreaker@cheat_engine/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
       "folder": "MrKrisSatan@leaf_avatar",
       "id": "leaf_avatar",
       "title": "Choose Your Avatar",
@@ -569,12 +600,78 @@
       "update_check": "pending"
     },
     {
+      "folder": "ShaneHudson@dev-hook-inspector",
+      "id": "dev-hook-inspector",
+      "title": "Dev Hook Inspector",
+      "author": "ShaneHudson",
+      "summary": "Developer tool: a HOOKS entry on the START menu lists every installed mod's public exports and events.",
+      "version": "0.1.1",
+      "categories": [
+        "TOOL"
+      ],
+      "tags": [
+        "developer",
+        "exports",
+        "events",
+        "modding",
+        "debugging"
+      ],
+      "repo": "https://github.com/shanehudson-gen1recomp-mods/dev-hook-inspector",
+      "github": "shanehudson-gen1recomp-mods/dev-hook-inspector",
+      "automatic_version_check": true,
+      "api": 2,
+      "game_version": "0.0.0-dev || >=0.1.0 <2.0.0",
+      "profile": "content",
+      "permissions": [
+        "engine_internals"
+      ],
+      "license": "MIT",
+      "thumbnail": null,
+      "description_url": "data/mods/ShaneHudson@dev-hook-inspector/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
+      "folder": "ShaneHudson@double_battles",
+      "id": "double_battles",
+      "title": "Double Battles",
+      "author": "ShaneHudson",
+      "summary": "Wild and trainer double battles: 1v2, 2v2 and trainer pairs, in classic, wide and 3D.",
+      "version": "0.2.2",
+      "categories": [
+        "GAMEPLAY"
+      ],
+      "tags": [
+        "battle",
+        "doubles",
+        "mechanic",
+        "wild",
+        "trainers"
+      ],
+      "repo": "https://github.com/shanehudson-gen1recomp-mods/double_battles",
+      "github": "shanehudson-gen1recomp-mods/double_battles",
+      "automatic_version_check": true,
+      "api": 2,
+      "game_version": "0.0.0-dev || >=0.1.0 <2.0.0",
+      "profile": "content",
+      "affects_link": true,
+      "experimental": true,
+      "permissions": [
+        "engine_internals"
+      ],
+      "license": "MIT",
+      "thumbnail": null,
+      "description_url": "data/mods/ShaneHudson@double_battles/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
       "folder": "MFRTechConsult@DRAMATIC_SKY_RIDE",
       "id": "DRAMATIC_SKY_RIDE",
       "title": "Dramatic Sky Ride",
       "author": "MFR TechConsult",
-      "summary": "Ride Gen 1 Pokémon on land, water and in the air with Battle Art Voxel Fork, PokéPC sprites and story-aware progression.",
-      "version": "0.1.1",
+      "summary": "Ride Gen 1 Pokémon on land, water and in the air with Battle Art Voxel Fork, PokéPC sprites, story-aware progression and Wild Skies integration.",
+      "version": "0.1.2",
       "categories": [
         "GAMEPLAY",
         "CONTENT",
@@ -586,11 +683,12 @@
         "ground ride",
         "surf",
         "voxel",
-        "exploration"
+        "exploration",
+        "wild skies"
       ],
       "repo": "https://github.com/mfrtechconsult/dramatic-sky-ride",
       "github": "mfrtechconsult/dramatic-sky-ride",
-      "downloadURL": "https://github.com/mfrtechconsult/dramatic-sky-ride/releases/download/v0.1.1/dramatic_sky_ride-0.1.1.zip",
+      "downloadURL": "https://github.com/mfrtechconsult/dramatic-sky-ride/releases/download/v0.1.2/dramatic_sky_ride-0.1.2.zip",
       "automatic_version_check": true,
       "api": 2,
       "game_version": "0.0.0-dev || >=0.1.69 <2.0.0",
@@ -695,6 +793,38 @@
       "update_check": "pending"
     },
     {
+      "folder": "eduardocalafell@fakemons",
+      "id": "fakemons",
+      "title": "Fakémons",
+      "author": "eduardocalafell",
+      "summary": "Original fan-made Fakémons as real catchable species — full stats, moves, learnsets, dex entries and original art, spawning in themed habitats.",
+      "version": "0.1.1",
+      "categories": [
+        "CONTENT",
+        "GAMEPLAY"
+      ],
+      "tags": [
+        "fakemon",
+        "pokemon",
+        "species",
+        "content"
+      ],
+      "repo": "https://github.com/eduardocalafell/gen1recomp-fakemons",
+      "github": "eduardocalafell/gen1recomp-fakemons",
+      "automatic_version_check": true,
+      "api": 2,
+      "game_version": ">=0.1.37 <2.0.0",
+      "profile": "content",
+      "permissions": [],
+      "dependencies": [],
+      "conflicts": [],
+      "license": "MIT",
+      "thumbnail": null,
+      "description_url": "data/mods/eduardocalafell@fakemons/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
       "folder": "masterwebx@FOLLOWERS_EX",
       "id": "FOLLOWERS_EX",
       "title": "Followers EX",
@@ -727,7 +857,7 @@
       "title": "Free Fly",
       "author": "ShaneHudson",
       "summary": "Ride a FLY user around the overworld and land wherever you like.",
-      "version": "1.0.0",
+      "version": "1.4.4",
       "categories": [
         "GAMEPLAY",
         "QOL"
@@ -738,8 +868,8 @@
         "mechanic",
         "quality-of-life"
       ],
-      "repo": "https://github.com/ShaneHudson/gen1recomp-mods",
-      "github": "ShaneHudson/gen1recomp-mods",
+      "repo": "https://github.com/shanehudson-gen1recomp-mods/free_fly",
+      "github": "shanehudson-gen1recomp-mods/free_fly",
       "automatic_version_check": true,
       "api": 2,
       "game_version": "0.0.0-dev || >=0.1.0 <2.0.0",
@@ -750,6 +880,41 @@
       "license": "MIT",
       "thumbnail": "data/mods/ShaneHudson@free_fly/thumbnail.png",
       "description_url": "data/mods/ShaneHudson@free_fly/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
+      "folder": "eduardocalafell@gen2_dex",
+      "id": "gen2_dex",
+      "title": "Gen 2 Dex",
+      "author": "eduardocalafell",
+      "summary": "The complete Johto Pokedex (#152-251) as real, catchable species: real Gen 2 stats/types, Crystal sprites, and thematic wild placement across Kanto.",
+      "version": "1.1.0",
+      "categories": [
+        "CONTENT",
+        "GAMEPLAY"
+      ],
+      "tags": [
+        "gen2",
+        "johto",
+        "pokedex",
+        "new species",
+        "encounters"
+      ],
+      "repo": "https://github.com/eduardocalafell/gen1recomp-gen2-dex",
+      "github": "eduardocalafell/gen1recomp-gen2-dex",
+      "automatic_version_check": true,
+      "api": 2,
+      "game_version": ">=0.1.37 <2.0.0",
+      "profile": "content",
+      "permissions": [],
+      "dependencies": [],
+      "conflicts": [
+        "gen2_starters"
+      ],
+      "license": "MIT",
+      "thumbnail": "data/mods/eduardocalafell@gen2_dex/thumbnail.png",
+      "description_url": "data/mods/eduardocalafell@gen2_dex/description.md",
       "latest": null,
       "update_check": "pending"
     },
@@ -825,7 +990,7 @@
       "title": "Gen1 KR",
       "author": "adrian",
       "summary": "Drive KITT across Kanto.",
-      "version": "0.2.0",
+      "version": "0.3.2",
       "categories": [
         "GAMEPLAY",
         "AUDIO",
@@ -837,12 +1002,13 @@
         "kitt"
       ],
       "github": "castdrian/gen1-kr",
+      "downloadURL": "https://github.com/castdrian/gen1-kr/releases/download/v0.3.2/gen1-kr-0.3.2.zip",
       "game_version": "0.0.0-dev || >=0.1.37 <2.0.0",
       "permissions": [
         "engine_internals"
       ],
       "dependencies": [
-        "DRAMATIC_SHAPE@>=1.6.0 <2.0.0"
+        "DRAMALESS_SHAPE@>=1.6.3 <2.0.0"
       ],
       "conflicts": [],
       "api": 2,
@@ -893,26 +1059,28 @@
       "version": "1.5.1",
       "categories": [
         "GAMEPLAY",
-        "UI"
+        "CONTENT",
+        "QOL"
       ],
       "repo": "https://github.com/tebwritescode/gen1mmo",
-      "github": "tebwritescode/gen1mmo",
-      "summary": "Online play: other trainers roam your own world. Chat, customise your look, make friends. One official server, no email required.",
+      "summary": "Other trainers live in your own save: chat, trainer cards, friends - one official server, accounts with no email.",
       "tags": [
         "online",
         "multiplayer",
         "chat",
-        "mmo",
+        "friends",
+        "customisation",
+        "privacy",
         "social"
       ],
+      "github": "tebwritescode/gen1mmo",
       "license": "MIT",
-      "api": 2,
       "permissions": [
         "network"
       ],
-      "affects_link": true,
-      "automatic_version_check": true,
-      "thumbnail": null,
+      "api": 2,
+      "profile": "content",
+      "thumbnail": "data/mods/tebwritescode@gen1mmo/thumbnail.png",
       "description_url": "data/mods/tebwritescode@gen1mmo/description.md",
       "latest": null,
       "update_check": "pending"
@@ -1029,6 +1197,38 @@
       "update_check": "pending"
     },
     {
+      "folder": "hdbreaker@intro_bypass",
+      "id": "intro_bypass",
+      "title": "Intro Bypass",
+      "author": "hdbreaker",
+      "summary": "Skip Oak's intro: pick your name, starter (starters + legendaries), shiny or not, and level, then jump straight into the overworld.",
+      "version": "1.0.0",
+      "categories": [
+        "GAMEPLAY"
+      ],
+      "tags": [
+        "intro",
+        "skip",
+        "starter",
+        "quality-of-life"
+      ],
+      "repo": "https://github.com/hdbreaker/gen1recomp-mod-intro_bypass",
+      "github": "hdbreaker/gen1recomp-mod-intro_bypass",
+      "api": 2,
+      "game_version": ">=0.0.0-dev <1.0.0",
+      "profile": "content",
+      "affects_link": false,
+      "permissions": [
+        "engine_internals"
+      ],
+      "dependencies": [],
+      "conflicts": [],
+      "thumbnail": "data/mods/hdbreaker@intro_bypass/thumbnail.png",
+      "description_url": "data/mods/hdbreaker@intro_bypass/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
       "folder": "bryanthaboi@translation-ja-hrkt",
       "id": "translation-ja-hrkt",
       "title": "JP GREEN - Poketto Monsutā Midori",
@@ -1111,6 +1311,39 @@
       "license": "MIT",
       "thumbnail": null,
       "description_url": "data/mods/MraYT@kanto_dive/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
+      "folder": "Campo@kanto_dynamic_weather",
+      "id": "kanto_dynamic_weather",
+      "title": "Kanto Dynamic Weather",
+      "author": "Campo",
+      "version": "1.0.3",
+      "categories": [
+        "ART"
+      ],
+      "repo": "https://github.com/1-Camp0-1/Kanto-Dynamic-Weather",
+      "summary": "Dynamic 3D weather and atmospheric effects for Dramatic Shape, including clouds, fog, rain, thunderstorms, lightning, puddles and distant scenery.",
+      "tags": [
+        "weather",
+        "atmosphere",
+        "voxel",
+        "dramatic shape",
+        "graphics"
+      ],
+      "github": "1-Camp0-1/Kanto-Dynamic-Weather",
+      "game_version": "0.0.0-dev || >=0.1.37 <2.0.0",
+      "dependencies": [
+        "DRAMATIC_SHAPE@>=1.7.2 <1.8.0"
+      ],
+      "permissions": [
+        "engine_internals"
+      ],
+      "api": 2,
+      "profile": "content",
+      "thumbnail": "data/mods/Campo@kanto_dynamic_weather/thumbnail.png",
+      "description_url": "data/mods/Campo@kanto_dynamic_weather/description.md",
       "latest": null,
       "update_check": "pending"
     },
@@ -1405,6 +1638,41 @@
       "update_check": "pending"
     },
     {
+      "folder": "ddagent@npc_bubbles",
+      "id": "npc_bubbles",
+      "title": "NPC Bubbles",
+      "author": "ddagent",
+      "version": "2.3.10",
+      "summary": "Puts a bubble over the NPCs who actually do something, so the person holding a free TM does not look like the person who wants to tell you about ledges.",
+      "categories": [
+        "UI",
+        "QOL"
+      ],
+      "tags": [
+        "npc",
+        "markers",
+        "quality of life",
+        "checklist",
+        "completion",
+        "overworld"
+      ],
+      "repo": "https://github.com/ddagent/gen1recomp-npc-bubbles",
+      "github": "ddagent/gen1recomp-npc-bubbles",
+      "api": 2,
+      "game_version": ">=0.0.0-0 <2.0.0",
+      "profile": "content",
+      "experimental": false,
+      "permissions": [
+        "engine_internals"
+      ],
+      "dependencies": [],
+      "conflicts": [],
+      "thumbnail": "data/mods/ddagent@npc_bubbles/thumbnail.png",
+      "description_url": "data/mods/ddagent@npc_bubbles/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
       "folder": "TheRhysWyrill@instant_heal_pc_rest",
       "id": "instant_heal_pc_rest",
       "title": "Nurse Speed Heal & PC Rest",
@@ -1464,7 +1732,7 @@
       "id": "overworld_encounters",
       "title": "Overworld Wild Encounters",
       "author": "Gamecorner_033",
-      "version": "0.0.5",
+      "version": "0.0.7",
       "categories": [
         "GAMEPLAY",
         "CONTENT",
@@ -1473,7 +1741,6 @@
       ],
       "repo": "https://github.com/gamecorner-033/Gen1PC-OverworldEncounters",
       "github": "gamecorner-033/Gen1PC-OverworldEncounters",
-      "downloadURL": "https://github.com/gamecorner-033/Gen1PC-OverworldEncounters/releases/download/v0.0.5/overworld_encounters.zip",
       "api": 2,
       "profile": "content",
       "thumbnail": null,
@@ -1516,11 +1783,45 @@
       "update_check": "pending"
     },
     {
+      "folder": "MisterMiracle@snag_quest",
+      "id": "snag_quest",
+      "title": "Pokemon Snag",
+      "author": "Mister Miracle",
+      "version": "0.12.0",
+      "categories": [
+        "GAMEPLAY",
+        "CONTENT"
+      ],
+      "repo": "https://github.com/mistermiracle3036/Pokemon-Snag",
+      "summary": "Steal Pokemon from other trainers with the SNAG BALL, and fence what you steal for more balls.",
+      "tags": [
+        "theft",
+        "snag",
+        "trainer-battles",
+        "questline",
+        "team-rocket"
+      ],
+      "github": "mistermiracle3036/Pokemon-Snag",
+      "game_version": ">=0.1.38",
+      "dependencies": [
+        "quest_system"
+      ],
+      "permissions": [
+        "engine_internals"
+      ],
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/MisterMiracle@snag_quest/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
       "folder": "Gamecorner_033@PokePCFollowers_VoxelMerge",
       "id": "PokePCFollowers_VoxelMerge",
       "title": "PokéPC Followers (W/Voxel Support)",
       "author": "Gamecorner_033",
-      "version": "0.0.5",
+      "version": "0.5.1",
       "categories": [
         "GAMEPLAY",
         "CONTENT",
@@ -1529,7 +1830,6 @@
       ],
       "repo": "https://github.com/gamecorner-033/PokePCFollowers",
       "github": "gamecorner-033/PokePCFollowers",
-      "downloadURL": "https://github.com/gamecorner-033/PokePCFollowers/releases/download/v0.0.5/mod.zip",
       "api": 2,
       "profile": "content",
       "thumbnail": null,
@@ -1565,6 +1865,45 @@
       "profile": "content",
       "thumbnail": "data/mods/mresnick67@pokewalker/thumbnail.jpg",
       "description_url": "data/mods/mresnick67@pokewalker/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
+      "folder": "ShaneMcGovernIE@potato_voxel",
+      "id": "potato_voxel",
+      "title": "PotatoVoxel (Beta)",
+      "author": "ShaneMcGovernIE",
+      "summary": "An unconditional Brick-mode 3D voxel overworld tuned for low-end devices, with scalable render modes, mesh caching, and prebuild support.",
+      "version": "1.2.0",
+      "categories": [
+        "ART",
+        "TOTAL_CONVERSION"
+      ],
+      "tags": [
+        "voxel",
+        "3d",
+        "brick",
+        "overworld",
+        "low-end"
+      ],
+      "repo": "https://github.com/ShaneMcGovernIE/potato_voxel",
+      "github": "ShaneMcGovernIE/potato_voxel",
+      "automatic_version_check": true,
+      "api": 2,
+      "game_version": "0.0.0-dev || >=0.1.37 <2.0.0",
+      "profile": "content",
+      "affects_link": false,
+      "permissions": [
+        "engine_internals",
+        "filesystem"
+      ],
+      "conflicts": [
+        "DRAMATIC_SHAPE",
+        "ds_fp_ceiling",
+        "dramatic_shape_brick"
+      ],
+      "thumbnail": null,
+      "description_url": "data/mods/ShaneMcGovernIE@potato_voxel/description.md",
       "latest": null,
       "update_check": "pending"
     },
@@ -1723,6 +2062,25 @@
       "update_check": "pending"
     },
     {
+      "folder": "Sedatb23@recomp_cartographer",
+      "id": "recomp_cartographer",
+      "title": "Recomp Cartographer",
+      "author": "Sedatb23",
+      "version": "0.2.0",
+      "categories": [
+        "ART"
+      ],
+      "repo": "https://github.com/Sedatb23/recomp_cartographer",
+      "github": "Sedatb23/recomp_cartographer",
+      "api": 2,
+      "profile": "content",
+      "thumbnail": null,
+      "description_url": "data/mods/Sedatb23@recomp_cartographer/description.md",
+      "summary": "This mod allows dumping of the maps into tiled.",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
       "folder": "masterwebx@RUN_MODE",
       "id": "RUN_MODE",
       "title": "Run Mode",
@@ -1873,6 +2231,63 @@
       "profile": "content",
       "thumbnail": "data/mods/masterwebx@SHINY_POKEMON/thumbnail.png",
       "description_url": "data/mods/masterwebx@SHINY_POKEMON/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
+      "folder": "AshJam@silphnet",
+      "id": "silphnet",
+      "title": "SilphNet",
+      "author": "AshJam",
+      "version": "1.1.8",
+      "categories": [
+        "GAMEPLAY",
+        "TOOL"
+      ],
+      "repo": "https://github.com/AshJamB/SilphNet",
+      "summary": "See where your friends were last, in-game, with no live server or 24/7 process required.",
+      "tags": [
+        "multiplayer",
+        "friends",
+        "online",
+        "presence"
+      ],
+      "github": "AshJamB/SilphNet",
+      "license": "MIT",
+      "permissions": [
+        "network"
+      ],
+      "api": 2,
+      "profile": "content",
+      "thumbnail": "data/mods/AshJam@silphnet/thumbnail.png",
+      "description_url": "data/mods/AshJam@silphnet/description.md",
+      "latest": null,
+      "update_check": "pending"
+    },
+    {
+      "folder": "YukitaMayako@simple_girl",
+      "id": "simple_girl",
+      "title": "Simple Girl mod",
+      "author": "Yukita Mayako",
+      "version": "1.0.0",
+      "categories": [
+        "ART"
+      ],
+      "repo": "https://github.com/Yukitty/gen1mod-simple_girl",
+      "summary": "Content patch replacing the main character's sprites and pronouns.",
+      "tags": [
+        "player character",
+        "sprites"
+      ],
+      "github": "Yukitty/gen1mod-simple_girl",
+      "game_version": "0.0.0-dev || >=0.1.76 <1.0.0",
+      "conflicts": [
+        "leaf_avatar"
+      ],
+      "api": 2,
+      "profile": "content",
+      "thumbnail": "data/mods/YukitaMayako@simple_girl/thumbnail.png",
+      "description_url": "data/mods/YukitaMayako@simple_girl/description.md",
       "latest": null,
       "update_check": "pending"
     },
@@ -2372,7 +2787,7 @@
       "title": "Wild Skies",
       "author": "ShaneHudson",
       "summary": "Flying Pokémon from the encounter tables cross the overworld.",
-      "version": "1.0.0",
+      "version": "1.5.0",
       "categories": [
         "GAMEPLAY",
         "ART",
@@ -2384,8 +2799,8 @@
         "flying",
         "encounters"
       ],
-      "repo": "https://github.com/ShaneHudson/gen1recomp-mods",
-      "github": "ShaneHudson/gen1recomp-mods",
+      "repo": "https://github.com/shanehudson-gen1recomp-mods/wild_skies",
+      "github": "shanehudson-gen1recomp-mods/wild_skies",
       "automatic_version_check": true,
       "api": 2,
       "game_version": "0.0.0-dev || >=0.1.0 <2.0.0",
