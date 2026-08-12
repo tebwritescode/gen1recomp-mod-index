@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-11T23:36:22.799Z",
+  "generated_at": "2026-08-12T00:21:14.961Z",
   "count": 94,
   "categories": [
     "GAMEPLAY",
@@ -941,15 +941,15 @@
       "thumbnail": null,
       "description_url": "data/mods/MFRTechConsult@DRAMATIC_SKY_RIDE/description.md",
       "latest": {
-        "version": "0.2.5",
-        "tag": "v0.2.5",
-        "name": "Dramatic Sky Ride 0.2.5",
+        "version": "0.2.6",
+        "tag": "v0.2.6",
+        "name": "Dramatic Sky Ride 0.2.6",
         "prerelease": false,
-        "published_at": "2026-08-11T22:18:01Z",
+        "published_at": "2026-08-12T00:09:35Z",
         "zip": {
-          "name": "dramatic-sky-ride-0.2.5.zip",
-          "url": "https://github.com/mfrtechconsult/dramatic-sky-ride/releases/download/v0.2.5/dramatic-sky-ride-0.2.5.zip",
-          "size": 231520
+          "name": "dramatic-sky-ride-0.2.6.zip",
+          "url": "https://github.com/mfrtechconsult/dramatic-sky-ride/releases/download/v0.2.6/dramatic-sky-ride-0.2.6.zip",
+          "size": 234246
         }
       },
       "update_check": "ok"
@@ -2330,15 +2330,15 @@
       "thumbnail": "data/mods/bryanthaboi@nuzlocke/thumbnail.png",
       "description_url": "data/mods/bryanthaboi@nuzlocke/description.md",
       "latest": {
-        "version": "1.0.1",
-        "tag": "v1.0.1",
-        "name": "1.0.1",
+        "version": "1.0.2",
+        "tag": "v1.0.2",
+        "name": "1.0.2",
         "prerelease": false,
-        "published_at": "2026-07-31T14:17:23Z",
+        "published_at": "2026-08-12T00:05:54Z",
         "zip": {
-          "name": "nuzlocke-1.0.1.zip",
-          "url": "https://github.com/bryanthaboi/nuzlocke/releases/download/v1.0.1/nuzlocke-1.0.1.zip",
-          "size": 4396
+          "name": "nuzlocke-1.0.2.zip",
+          "url": "https://github.com/bryanthaboi/nuzlocke/releases/download/v1.0.2/nuzlocke-1.0.2.zip",
+          "size": 98524
         }
       },
       "update_check": "ok"
@@ -2920,15 +2920,15 @@
       "thumbnail": "data/mods/tebwritescode@savesync/thumbnail.png",
       "description_url": "data/mods/tebwritescode@savesync/description.md",
       "latest": {
-        "version": "1.7.0",
-        "tag": "v1.7.0",
-        "name": "SaveSync v1.7.0",
+        "version": "1.8.0",
+        "tag": "v1.8.0",
+        "name": "SaveSync v1.8.0",
         "prerelease": false,
-        "published_at": "2026-08-11T23:35:46Z",
+        "published_at": "2026-08-12T00:14:10Z",
         "zip": {
-          "name": "savesync-1.7.0.zip",
-          "url": "https://github.com/tebwritescode/savesync/releases/download/v1.7.0/savesync-1.7.0.zip",
-          "size": 66878
+          "name": "savesync-1.8.0.zip",
+          "url": "https://github.com/tebwritescode/savesync/releases/download/v1.8.0/savesync-1.8.0.zip",
+          "size": 69374
         }
       },
       "update_check": "ok"
@@ -3661,19 +3661,8 @@
       "license": "MIT",
       "thumbnail": "data/mods/DavidSchuchert@VOXEL_DEX/thumbnail.png",
       "description_url": "data/mods/DavidSchuchert@VOXEL_DEX/description.md",
-      "latest": {
-        "version": "1.0.0",
-        "tag": "v1.0.0",
-        "name": "Voxel 3D Pokedex 1.0.0",
-        "prerelease": false,
-        "published_at": "2026-08-07T14:36:26Z",
-        "zip": {
-          "name": "VOXEL_DEX-1.0.0.zip",
-          "url": "https://github.com/DavidSchuchert/gen1-voxel-dex/releases/download/v1.0.0/VOXEL_DEX-1.0.0.zip",
-          "size": 17309
-        }
-      },
-      "update_check": "ok"
+      "latest": null,
+      "update_check": "no installable release"
     },
     {
       "folder": "MyFriendDevBR@whos_that_trainer",
