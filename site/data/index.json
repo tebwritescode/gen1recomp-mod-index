@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-12T00:21:14.961Z",
+  "generated_at": "2026-08-12T00:43:11.039Z",
   "count": 94,
   "categories": [
     "GAMEPLAY",
@@ -2920,15 +2920,15 @@
       "thumbnail": "data/mods/tebwritescode@savesync/thumbnail.png",
       "description_url": "data/mods/tebwritescode@savesync/description.md",
       "latest": {
-        "version": "1.8.0",
-        "tag": "v1.8.0",
-        "name": "SaveSync v1.8.0",
+        "version": "1.9.0",
+        "tag": "v1.9.0",
+        "name": "SaveSync v1.9.0",
         "prerelease": false,
-        "published_at": "2026-08-12T00:14:10Z",
+        "published_at": "2026-08-12T00:27:34Z",
         "zip": {
-          "name": "savesync-1.8.0.zip",
-          "url": "https://github.com/tebwritescode/savesync/releases/download/v1.8.0/savesync-1.8.0.zip",
-          "size": 69374
+          "name": "savesync-1.9.0.zip",
+          "url": "https://github.com/tebwritescode/savesync/releases/download/v1.9.0/savesync-1.9.0.zip",
+          "size": 70089
         }
       },
       "update_check": "ok"
@@ -3661,8 +3661,19 @@
       "license": "MIT",
       "thumbnail": "data/mods/DavidSchuchert@VOXEL_DEX/thumbnail.png",
       "description_url": "data/mods/DavidSchuchert@VOXEL_DEX/description.md",
-      "latest": null,
-      "update_check": "no installable release"
+      "latest": {
+        "version": "1.0.0",
+        "tag": "v1.0.0",
+        "name": "Voxel 3D Pokedex 1.0.0",
+        "prerelease": false,
+        "published_at": "2026-08-07T14:36:26Z",
+        "zip": {
+          "name": "VOXEL_DEX-1.0.0.zip",
+          "url": "https://github.com/DavidSchuchert/gen1-voxel-dex/releases/download/v1.0.0/VOXEL_DEX-1.0.0.zip",
+          "size": 17309
+        }
+      },
+      "update_check": "ok"
     },
     {
       "folder": "MyFriendDevBR@whos_that_trainer",
